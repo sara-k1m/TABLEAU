@@ -110,6 +110,7 @@
 
 <!-- 누적병렬막대그래프에 관해 배우게 된 점을 적어주세요 -->
 ![2nd_TIL#15_1](./img/2nd_TIL15_1.png) |![2nd_TIL#15_2](./img/2nd_TIL15_2.png)
+--| --|
 
 ![screen](https://github.com/yousrchive/BUSINESS-INTELLIGENCE-TABLEAU/blob/main/study/img/2nd%20study/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA%202024-09-12%20%E1%84%8B%E1%85%A9%E1%84%8C%E1%85%A5%E1%86%AB%201.57.52.png?raw=true)
 
@@ -155,6 +156,7 @@ Latitude - 위도
 
 ## 19강: 트리맵과 하이라이트테이블
 ![2nd_TIL#19_1](./img/2nd_TIL19_1.png) |![2nd_TIL#19_2](./img/2nd_TIL19_2.png)
+--| --|
 
 ```
 트리맵을 사용할 때에는 나타내야하는 데이터의 수를 잘 조절해야 함
@@ -166,6 +168,7 @@ Latitude - 위도
 별도의 범례 사용
 ```
 ![2nd_TIL#19_3](./img/2nd_TIL19_3.png) |![2nd_TIL#19_4](./img/2nd_TIL19_4.png)|![2nd_TIL#19_5](./img/2nd_TIL19_5.png)
+--| --|
 
 ## 문제1
 
