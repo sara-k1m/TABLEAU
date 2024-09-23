@@ -167,8 +167,9 @@ Latitude - 위도
 ```
 별도의 범례 사용
 ```
-![2nd_TIL#19_3](./img/2nd_TIL19_3.png) |![2nd_TIL#19_4](./img/2nd_TIL19_4.png)|![2nd_TIL#19_5](./img/2nd_TIL19_5.png)
---| --| --|
+![2nd_TIL#19_3](./img/2nd_TIL19_3.png)
+![2nd_TIL#19_4](./img/2nd_TIL19_4.png)
+![2nd_TIL#19_5](./img/2nd_TIL19_5.png)
 
 ## 문제1
 
