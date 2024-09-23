@@ -175,10 +175,13 @@ Latitude - 위도
 지민이를 도와주세요! (풀이를 찾아가는 과정을 기술해주세요)
 ```
 
-```
+
 ![2nd_TIL_Q1_1](./img/2nd_TIL_Q1_1.png)
+```
 'South Korea'인 데이터만을 필터링
+```
 ![2nd_TIL_Q1_2](./img/2nd_TIL_Q1_2.png)
+```
 하위 범주 이름, 전체 중 차지 비율을 표시한 트리맵
 ```
 
@@ -197,10 +200,13 @@ https://github.com/yousrchive/BUSINESS-INTELLIGENCE-TABLEAU/blob/main/study/img/
 레퍼런스와 꼭 같지 않아도 자유롭게 표현하고, 그 과정을 기술해주세요.
 ```
 
-```
+
 ![2nd_TIL_Q2_1](./img/2nd_TIL_Q2_1.png)
+```
 'South Korea, China, Japan'인 데이터만을 필터링
+```
 ![2nd_TIL_Q2_2](./img/2nd_TIL_Q2_2.png)
+```
 열에 필터의 국가 지역 드래그&드랍, 분기 추가 후 연속형 범주(분기)로 변경
 행에 매출, 수익 추가 후 이중축 설정하여 두 필드를 한번에 비교
 ```
