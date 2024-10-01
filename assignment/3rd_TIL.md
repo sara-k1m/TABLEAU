@@ -179,6 +179,11 @@ SPLIT([제품 이름], ' ', 1)
 ```
 
 <!-- DArt-B superstore가 아닌 개인 superstore 파일을 사용했다면 값이 다르게 표시될 수 있습니다.-->
+![3rd_TIL_Q1(1)](./img/3rd_TIL_Q2(1).png)
+![3rd_TIL_Q1(2)](./img/3rd_TIL_Q2(2).png)
+![3rd_TIL_Q1(3)](./img/3rd_TIL_Q2(3).png)
+두개의 필터를 사용하게 되면 독립적으로 작동하므로 배송날짜 전체 기간 중 매출합계액 상위10개를 산출해낸다.
+2020, 2021년의 상위 10개 매출 데이터만을 필터링 하기 위해서는 배송날짜를 컨텍스트 필터로 설정해야 한다. 
 
 ## 문제 2.
 
@@ -197,3 +202,5 @@ SPLIT([제품 이름], ' ', 1)
 ```
 
 ![image](https://github.com/yousrchive/BUSINESS-INTELLIGENCE-TABLEAU/blob/main/study/img/3rd%20study/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA%202024-09-18%20%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE%204.37.55.png?raw=true)
+![3rd_TIL_Q2(1)](./img/3rd_TIL_Q2(1).png)
+![3rd_TIL_Q2(2)](./img/3rd_TIL_Q2(2).png)
