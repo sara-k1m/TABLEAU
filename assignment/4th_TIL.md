@@ -61,8 +61,9 @@ Tableu에서 날짜 데이터와 함께 제공되는 경우 자동으로 계층 
 일반-그룹 기능과 비슷, 수동으로 데이터 묶음
 조건-사용자가 설정한 조건이 충족되면 데이터 묶음
 상위-필드 기준 별 상위 또는 하위 순서로 데이터 묶음
-![4th_TIL31(1)](./img/4th_TIL31(1).png)
-![4th_TIL31(2)](./img/4th_TIL31(2).png)
+![4th_TIL31(1)](./img/4th_TIL31(1).png)|![4th_TIL31(2)](./img/4th_TIL31(2).png)
+--| --|
+
 ![4th_TIL31(3)](./img/4th_TIL31(3).png)
 
 
@@ -74,11 +75,13 @@ Tableu에서 날짜 데이터와 함께 제공되는 경우 자동으로 계층 
 ![4th_TIL32(1)](./img/4th_TIL32(1).png)
 ![4th_TIL32(2)](./img/4th_TIL32(2).png)
 ![4th_TIL32(3)](./img/4th_TIL32(3).png)
-![4th_TIL32(4)](./img/4th_TIL32(4).png)
-![4th_TIL32(5)](./img/4th_TIL32(5).png)
+
+![4th_TIL32(4)](./img/4th_TIL32(4).png) | ![4th_TIL32(5)](./img/4th_TIL32(5).png)
+--| --|
+
 ![4th_TIL32(6)](./img/4th_TIL32(6).png)
-![4th_TIL32(7)](./img/4th_TIL32(7).png)
-![4th_TIL32(8)](./img/4th_TIL32(8).png)
+![4th_TIL32(7)](./img/4th_TIL32(7).png) | ![4th_TIL32(8)](./img/4th_TIL32(8).png)
+--| --|
 
 ## 33. 계산된 필드
 
@@ -94,10 +97,11 @@ Tableu에서 날짜 데이터와 함께 제공되는 경우 자동으로 계층 
 
 문자값은 ‘’
 주석은 //
-![4th_TIL33(1)](./img/4th_TIL33(1).png)
-![4th_TIL33(2)](./img/4th_TIL33(2).png)
-![4th_TIL33(3)](./img/4th_TIL33(3).png)
-![4th_TIL33(4)](./img/4th_TIL33(4).png)
+![4th_TIL33(1)](./img/4th_TIL33(1).png) | ![4th_TIL33(2)](./img/4th_TIL33(2).png)
+--| --|
+![4th_TIL33(3)](./img/4th_TIL33(3).png) | ![4th_TIL33(4)](./img/4th_TIL33(4).png)
+--| --|
+
 ![4th_TIL33(5)](./img/4th_TIL33(5).png)
 
 ## 34. 행수준계산
